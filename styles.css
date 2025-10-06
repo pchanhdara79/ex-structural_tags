@@ -3,12 +3,11 @@ body {
 }
 
 .site-header {
-    background-color: hsl(291, 8%, 82%);
+    background-color: hsl(300, 7%, 71%);
     padding: 30px;
     text-align: left;
 }
 
 .main-content {
-    background-color: hsl(300, 7%, 71%);
-
+    background-color: hsl(291, 8%, 82%);
 }
