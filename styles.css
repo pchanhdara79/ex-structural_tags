@@ -3,18 +3,18 @@ body {
 }
 
 .site-header {
-    background-color: hsl(267, 15%, 44%);
+    background-color: hsl(28, 46%, 66%);
     padding: 30px;
     text-align: left;
 }
 
 .main-content {
-    background-color: hsl(266, 9%, 30%);
+    background-color: hsl(231, 35%, 75%);
     padding: 30px;
 }
 
 .site-footer {
-    background-color: hsl(292, 15%, 19%);
+    background-color: hsl(211, 79%, 9%);
     padding: 30px;
     color: white;
 }
