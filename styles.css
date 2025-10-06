@@ -16,5 +16,8 @@ body {
 .site-footer {
     background-color: hsl(293, 13%, 86%);
     padding: 30px;
+}
+
+.footer-link {
     list-style-type: none;
 }
