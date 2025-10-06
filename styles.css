@@ -10,4 +10,5 @@ body {
 
 .main-content {
     background-color: hsl(291, 8%, 82%);
+    padding: 20px;
 }
