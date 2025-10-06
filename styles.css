@@ -10,5 +10,10 @@ body {
 
 .main-content {
     background-color: hsl(291, 8%, 82%);
-    padding: 20px;
+    padding: 30px;
+}
+
+.site-footer {
+    background-color: hsl(300, 29%, 91%);
+    padding: 30px;
 }
