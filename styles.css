@@ -8,3 +8,7 @@ body {
     text-align: left;
 }
 
+.main-content {
+    background-color: hsl(295, 33%, 86%);
+    
+}
