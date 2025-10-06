@@ -1,5 +1,10 @@
+body {
+    margin: 0;
+}
+
 .site-header {
-    background-color: lightgrey;
+    background-color: hsl(0, 0%, 83%);
     padding: 30px;
     text-align: left;
 }
+
